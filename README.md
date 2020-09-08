@@ -47,3 +47,8 @@ In order to make our business work in a flow that would be suitable to our busin
 - [SEO Optimizer](https://www.seoptimer.com/)
 - [TrustedSite](https://www.trustedsite.com/)
 - [Ultimate Trust Badges](https://apps.shopify.com/ultimate-trust-badges)
+
+### Diagram:
+
+
+<img src="images/diagram.png" width="100%" height="90%"/>
